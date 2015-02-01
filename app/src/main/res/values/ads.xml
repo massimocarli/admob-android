@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The id for the banner for test -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- The id for the interstitial for test -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-2771340300570205/3366078773</string>
+</resources>
